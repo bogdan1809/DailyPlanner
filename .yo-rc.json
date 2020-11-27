@@ -1,0 +1,39 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ubbcluj.ro"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "ProiectColectiv",
+    "packageName": "ubbcluj.ro",
+    "packageFolder": "ubbcluj/ro",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "ZjYwNjBiMzdmZTgwZTA5NDk5OWMxNDljMWVjYTIxZGUzNGJiNGQxOGM4MTM3YzU0MDIzNzg4NDBjMmYzZWE1NmMwYmQ3NmIwNDRlOWMwNDc2Zjg3MWY5MDRiYzkyY2I1NTcxNDU1Y2M0NzU3YjA1MGI1NTcwZGRiODFkOTVlN2E=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1606324070715,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
